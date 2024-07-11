@@ -6,7 +6,7 @@
 - 🚀 Currently looking for an apprenticeship starting in October 2024 (duration: 1 year, schedule: 4 days/week),
 - 📫 Contact me by email: **baudin.marjolaine@gmail.com**
 
-- 💬 After several experiences in project management and coordination in the Tech sector, I have developed a strong curiosity and a keen interest in this field. I now wish to acquire technical skills to start a new career as a full stack developer.
+- 💬 After several experiences in project management and coordination in the Tech sector, I have developed a strong curiosity and a keen interest in this field. I aspire to acquire hard skills to start a new career as a full stack developer.
 
 
 <h3 align="left">Connect with me:</h3>

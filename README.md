@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marjolaine</h1>
-<h3 align="center">Welcome to my ɢɪᴛ ʜᴜʙ</h3>
+<h1 align="left">Hi 👋, I'm Marjolaine</h1>
+<h3 align="left">Welcome to my ɢɪᴛ ʜᴜʙ</h3>
 
 - 📫 Contactez-moi par mail : **baudin.marjolaine@gmail.com**
 

@@ -1,6 +1,13 @@
-<h3 align="left">👋 Bienvenue sur mon GIT HUB, je m'appelle Marjolaine</h3>
+<h3 align="left">👋 Welcome to my GIT HUB, my name is Marjolaine</h3>
 
-- 📫 Contactez-moi par mail : **baudin.marjolaine@gmail.com**
+- 🌱 I am currently undergoing a career change to become a Full-Stack Developer,
+- 👩🏼‍💻 Student at Ada Tech School 🏫 since January 29, 2024,
+- 🚧 Training based on alternative pedagogy through autonomy and collective projects, using agile methods,
+- 🚀 Currently looking for an apprenticeship starting in October 2024 (duration: 1 year, schedule: 4 days/week),
+- 📫 Contact me by email: **baudin.marjolaine@gmail.com**
+
+- 💬 After several experiences in project management and coordination in the Tech sector, I have developed a strong curiosity and a keen interest in this field. I now wish to acquire technical skills to start a new career as a full stack developer.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

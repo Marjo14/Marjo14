@@ -25,14 +25,16 @@
 
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" /></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" /></a>
+<a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=ffffff" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" /></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://angular.io/" title="Angular"><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" /></a>
-<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" /></a>
 <a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
 
 

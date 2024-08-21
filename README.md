@@ -33,7 +33,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">In progress:</h3>
 <a href="https://angular.io/" title="Angular"><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" /></a>
 <a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>

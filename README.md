@@ -17,11 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
-<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" /></a>
-<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML"><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" /></a>
-<a href="" title="CSS"><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" /></a>
 
 
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" /></a>
@@ -30,7 +27,11 @@
 <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" /></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" /></a>
+
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://angular.io/" title="Angular"><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" /></a>

@@ -10,9 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marjolaine baudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marjolaine baudin" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/marjolainebaudin/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>

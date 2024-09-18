@@ -41,7 +41,6 @@
 <a href="https://www.postman.com/" title="Postman"><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" /></a>
-
 <a href="https://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=1572B6"" /></a>
 <a href="https://www.canva.com/" title="Canva"><img src="https://img.shields.io/badge/Canva-282C34?logo=Canva&logoColor=1572B6"" /></a>
 

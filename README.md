@@ -31,6 +31,7 @@
 <a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=ffffff" /></a>
 <a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" /></a>
+<a ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </a>
 
 
 <h3 align="left">Data base  :</h3>
@@ -42,8 +43,6 @@
 <a href="https://www.postman.com/" title="Postman"><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" /></a>
-
-
-
-
+<a ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) </a>
+<a ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) </a>
 

@@ -22,6 +22,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML"><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" /></a>
+<a href="https://www.figma.com/" title="Figma"><img src="https://img.shields.io/badge/FIGMA-282C34?logo=figma&logoColor=1572B6"" /></a>
 
 <h3 align="left">Back-end :</h3>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/Typescript-282C34logo=typescript& logoColor=3178C6" /></a>

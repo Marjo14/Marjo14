@@ -27,6 +27,7 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" /></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" /></a>
 <a href="https://expressjs.com/" title="Express.js"><img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=ffffff" /></a>
+<a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" /></a>
 
 

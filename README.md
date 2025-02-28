@@ -3,7 +3,7 @@
 - 🌱 I am currently undergoing a career change to become a Full-Stack Developer,
 - 👩🏼‍💻 Student at Ada Tech School 🏫 since January 29, 2024,
 - 🚧 Training based on alternative pedagogy through autonomy and collective projects, using agile methods,
-- 🚀 Currently looking for an apprenticeship starting in October 2024 (duration: 1 year, schedule: 4 days/week),
+- 🚀 Currently Front-end Angular in apprenticeship in Natixis - BPCE
 - 📫 Contact me by email: **baudin.marjolaine@gmail.com**
 
 - 💬 After several experiences in project management and coordination in the Tech sector, I have developed a strong curiosity and a keen interest in this field. I aspire to acquire hard skills to start a new career as a full stack developer.

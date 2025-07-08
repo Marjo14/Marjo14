@@ -16,9 +16,8 @@
 
 
 <h3 align="left">Front-end :</h3>
-<a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
 <a href="https://angular.io/" title="Angular"><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" /></a>
-<a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
+<a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML"><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" /></a>
